@@ -4,13 +4,12 @@ Olá, eu sou a Ju Marinho e sou desenvolvedora front-end.
 </br>
 Hi, I'm Ju Marinho and I'm a front-end developer. 
 
-Por favor, não hesite em me contatar por aqui:
+Me contate aqui:
 </br>
-Please, do not hesitate on connecting with me:
+Contact me here:
 </br>
 <a href="https://www.linkedin.com/in/juliana-marinho-08b179217">
 <img src="https://img.icons8.com/?size=40&id=98960&format=png&color=000000" alt="linkedln">
-<br>
 </a> <a href="https://www.instagram.com/ju9marinho/">
 <img src="https://img.icons8.com/?size=40&id=32323&format=png&color=000000" alt="instagram">
 </a>
